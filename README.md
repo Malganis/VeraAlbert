@@ -1,4 +1,0 @@
-VeraAlbert
-==========
-
-Treballem en equip
