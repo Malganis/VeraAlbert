@@ -2,7 +2,8 @@ class HelloVera {
   
   public void main(String arg[]) {
 
-    System.out.println ("Hello Vera");
+	System.out.println ("Hello Vera");
+	System.out.println ("Ei Delegat!!");
 
   }
 }
